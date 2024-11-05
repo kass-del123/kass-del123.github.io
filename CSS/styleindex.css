@@ -1,0 +1,146 @@
+*{
+	box-sizing: border-box;
+	font-family: Times New Roman, Helvetica, sans-serif;
+
+}
+
+body{
+	margin: 0;
+	font-family: Times New Roman, sans-serif;
+
+}
+
+.header{
+	padding: 5px;
+	text-align: center;
+	color: #3361F8;
+	font-size: 18px;
+	font-family: Georgia;
+}
+
+.topnav{
+	overflow: hidden;
+	background-color: #2E72E0;
+}
+
+.topnav a{
+	float: left;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.topnav a:hover{
+	background-color: #439DB0;
+	color: white;
+}
+
+.content{
+	background-color: #fff;
+	padding: 10px;
+
+	text-align: justify;
+	font-family: Book Antiqua; 
+border-radius: 8px;
+box-shadow: 0 0 10 px rgba (0,0,0,0.1);
+max-width: 800px; 
+margin: 20px auto;}
+
+
+/*Codigo CSS para la Seccion de clasificacion genereales*/
+.clasificacionesgenerales.content{
+background-color: #fff;
+padding: 10px;
+
+text-aLign: justify；
+font-family: Book Antiqua; 
+border-radius: 8px;
+box-shadow: 0 0 10 px rgba (0,0,0,0.1);
+max-width: 800px; 
+margin: 20px auto;}
+
+
+
+/*Codigo CSS para la Seccion de doloso*/
+.doloso.content{
+background-coLor: #fff;
+padding: 10px;
+text-align: Justify;
+font-family: Book Antiqua; 
+border-radius: 8px;
+box-shadow: 0 0 10 px rgba (0,0,0,0.1);
+max-width: 800px; 
+margin: 20px auto;}
+
+
+/** Seccion de Estilo Involuntario**/
+.involuntario .content{
+	background-color:#fff;
+padding: 10px;
+text-align: Justify;
+font-family: Book Antiqua; 
+border-radius: 8px;
+box-shadow: 0 0 10 px rgba (0,0,0,0.1);
+max-width: 800px; 
+margin: 20px auto;}
+
+
+/** Seccion de Estilo Preterintencional }**/
+.preterintencional.content{
+	background-color:#fff;
+padding: 10px;
+text-align: Justify;
+font-family: Book Antiqua; 
+border-radius: 8px;
+box-shadow: 0 0 10 px rgba (0,0,0,0.1);
+max-width: 800px; 
+margin: 20px auto;}
+}
+
+/** Seccion de Estilo Imprudente**/
+.imprudente .content{
+	background-color:#fff;
+padding: 10px;
+text-align: Justify;
+font-family: Book Antiqua; 
+border-radius: 8px;
+box-shadow: 0 0 10 px rgba (0,0,0,0.1);
+max-width: 800px; 
+margin: 20px auto;}
+
+
+
+
+/** Seccion de Turismo**/ 
+.calificado .content{
+background-color: #fff;
+padding: 10px;
+text-aLign: justify;
+font-family: Book Antiqua; 
+border-radius: 8px;
+box-shadow: 0 0 10 px rgba (0,0,0,0.1);
+max-width: 800px; 
+margin: 20px auto;}}
+
+.calificado .content{
+background-color: #fff;
+padding: 10px;
+text-aLign: justify;
+font-family: Book Antiqua; 
+border-radius: 8px;
+box-shadow: 0 0 10 px rgba (0,0,0,0.1);
+max-width: 800px; 
+margin: 20px auto;}
+
+}
+
+.footer{
+	bottom:0;
+	width:100%;
+	background-color: #3434D5;
+	color: white;
+	padding: 3px;
+	text-align:center;}
+
